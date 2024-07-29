@@ -447,5 +447,5 @@ Recognition for completing courses and projects through certificates and digital
 
 CREATE A STREAMING PAGE 
 
-
+git remote add origin https://github.com/MyCodeHan/myCo.git
 
