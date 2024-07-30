@@ -72,10 +72,11 @@ Membership Types
 
 | Membership Type         | Age Group           | Key Benefits                                         |
 |-------------------------|---------------------|------------------------------------------------------|
-| JrClub Membership       | 10-15 years old     | Beginner resources, mentorship, community support    |
-| SrClub Membership       | 16-18 years old     | Intermediate/advanced resources, career guidance     |
-| Pro Membership          | 16 years and older  | Advanced projects, networking, job placement         |
-| ProJrDevs Membership    | 18 years and older  | Professional development, networking, career support |
+| Jr Club Membership      | 10-15 years old     | Beginner resources, mentorship, community support    |
+| Sr Club Membership      | 16-18 years old     | Intermediate/advanced resources, career guidance     |
+| Team AIU Membership     | 13 years and older  | TEAM Ai u.Challange, networking events, |
+| Jr Dev Membership       | 18 years and older  | Professional development, networking, career support |
+| Sr Dev Membership       | 
 | Industry Membership     | Organizations       | Recruitment, collaboration, brand visibility         |
 | StartUp Membership      | Startups            | Talent access, networking, project collaboration     |
 
@@ -97,10 +98,10 @@ Would you like to add or modify any details for these membership types?
 - E-commerce Projects: Build and manage online stores.
 - Group Projects: Full-featured web apps.
 
- Team brand, TB Membership,
+ TEAM Ai-U, TB Membership,
  (Ages 10-18 | 19-25 | 26+ |~~~| Start Ups & Industry)
 - eSports Focus: Compete in eSports tournaments.
-- Team Branding: Create team names like Brigade, Crew, Squad, Collective, Tribe.
+- TEAM Ai-Uing: Create team names like Brigade, Crew, Squad, Collective, Tribe.
 - Team SDLC: Apply SDLC in team projects.
 - E-commerce for Teams: Create and manage team-branded merchandise stores.
 
@@ -383,7 +384,7 @@ The Sr. Club Membership is tailored for older youth who want to deepen their
 understanding of coding, Ai, and critical thinking. Members engage in 
 more advanced projects and participate in competitions to showcase their skills.
 
-| Team Brand, TB MEMBERSHIP DETAILS |
+| TEAM Ai-U, TB MEMBERSHIP DETAILS |
 This TB Membership is ideal for those interested in eSports and tech branding. 
 Members will learn about robotics in the gaming industries, digital marketing, and team 
 collaboration, preparing them for careers in the tech and eSports industries.
@@ -449,3 +450,22 @@ CREATE A STREAMING PAGE
 
 git remote add origin https://github.com/MyCodeHan/myCo.git
 
+===================
+
+<iframe id="ytplayer" type="text/html" width="720" height="405"
+src="https://youtu.be/q3o-l1LVNgw?si=io0-WNRVnUllYc2M"
+frameborder="0" allowfullscreen>
+
+
+TEAM Ai-U                
+<div class="col-lg-3">
+                    <div class="vs-member">
+                        <div class="member-img">
+                            <a href="team-details.html"><img src="assets/img/member/member-1-2.png" class="w-100" alt="Member Image"></a>
+                        </div>
+                        <div class="member-content">
+                            <span class="degi">firstname</span>
+                            <h3 class="member-name fs-20"><a href="team-details.html">TeamBrand</a></h3>
+                        </div>
+                    </div>
+                </div>

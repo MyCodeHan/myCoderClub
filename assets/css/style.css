@@ -1,9 +1,9 @@
 /*
 Template Name: myCoder
-Template URL: https://html.vecurosoft.com/myCoder
+Template URL: https://html.myCoder Foundationsoft.com/myCoder
 Description: myCoder Foundation Club Coins
-Author: Vecuro
-Author URI: https://themeforest.net/user/vecuro_themes_themes
+Author: myCoder Foundation
+Author URI: _themes
 Version: 1.0.0
 */
 /*=================================
@@ -3593,11 +3593,13 @@ textarea.form-control.is-invalid {
   background-color: transparent;
   color: rgba(0, 0, 0, 0);
   -webkit-text-stroke-width: 2px;
-  -webkit-text-stroke-color: rgba(137, 92, 186, 0.359);
+  -webkit-text-stroke-color: rgba(255, 252, 252, 0.581);
   filter: brightness(200%);
   opacity: 1;
 }
-
+.vs-about-wrapper.space.bg- {
+  background-color: rgba(255, 252, 252, 0.581);
+}
 /* Large devices */
 @media (max-width: 1199px) {
   .breadcumb-wrapper.pt-200 {
@@ -7484,7 +7486,9 @@ blockquote *:not(:after) {
 .bg-light-gray {
   background-color: var(--light-gray-color) !important;
 }
-
+.vs-contact-wrapper.space-top.newsletter-pb {
+  background-color: rgba(188, 188, 188, 0.513);
+}
 .bg-white {
   background-color: var(--white-color) !important;
 }
@@ -9028,6 +9032,23 @@ blockquote *:not(:after) {
     padding-bottom: 30px;
   }
   
+}
+
+ul.side-by-side {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap; /* Allows wrapping to the next line if there are too many items */
+}
+
+ul.side-by-side li {
+  margin-right: 20px; /* Adjust spacing between items as needed */
+}
+
+ul.side-by-side li a {
+  text-decoration: none;
+  color: inherit; /* Adjust color as needed */
 }
 
 /*# sourceMappingURL=style.css.map */
