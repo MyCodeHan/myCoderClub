@@ -3751,7 +3751,7 @@ textarea.form-control.is-invalid {
   top: 0;
   height: 100%;
   width: 0;
-  background-color: rgba(68, 0, 171, 0.142);
+  background-color: rgba(68, 0, 171, 0.662);
   opacity: 0;
   visibility: hidden;
   transition: all ease 0.8s;
