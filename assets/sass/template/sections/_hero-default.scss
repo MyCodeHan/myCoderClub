@@ -267,13 +267,15 @@
   color: $white-color;
   font-family: $theme-font2;
   margin-bottom: 20px;
+  
 }
 .hero-text{
-  color: $white-color;
+  color: cyan;
   text-transform: capitalize;
   margin-bottom: 40px;
   max-width: 50ch;
   width: 100%;
+  font-size: 50px;
 }
 .hero-bg {
   position: absolute;
