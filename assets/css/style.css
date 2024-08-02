@@ -1085,6 +1085,7 @@ textarea.form-control.is-invalid {
 .vs-btn.outline1 {
   padding: 18px 45px;
   color: var(--white-color);
+  text-shadow: 0 0 5px rgb(255, 255, 255);
   text-transform: capitalize;
 }
 .vs-btn.outline1 i {
@@ -3587,11 +3588,11 @@ textarea.form-control.is-invalid {
   text-align: center;
   margin: 0;
   z-index: -1;
-  font-size: 12.5rem;
+  font-size: 13rem;
   letter-spacing: -0.047em;
   font-style: italic;
   background-color: transparent;
-  color: rgba(0, 0, 0, 0);
+  color: rgba(129, 122, 122, 0.099);
   -webkit-text-stroke-width: 2px;
   -webkit-text-stroke-color: rgba(255, 252, 252, 0.581);
   filter: brightness(200%);
@@ -3606,7 +3607,7 @@ textarea.form-control.is-invalid {
     padding-top: 185px;
   }
   .breadcumb-bg-title {
-    font-size: 7.5rem;
+    font-size: 15rem;
   }
 }
 /* Medium devices */
@@ -4896,6 +4897,7 @@ blockquote *:not(:after) {
 
 .hero-title {
   color: var(--white-color);
+  text-shadow: 0 0 5px rgb(216, 116, 255);
   font-family: var(--theme-font2);
   margin-bottom: 20px;
 }
@@ -7586,6 +7588,7 @@ blockquote *:not(:after) {
 
 .text-white {
   color: var(--white-color) !important;
+  text-shadow: 0 0 15px rgba(162, 0, 255, 0.963);
 }
 
 .text-yellow {
