@@ -6644,7 +6644,8 @@ blockquote *:not(:after) {
 .timetable-style1 .day {
   font-size: 18px;
   font-weight: 700;
-  color: var(--white-color);
+  color: cyan;
+  text-shadow: 0 0 50px rgb(170, 0, 255);
   text-transform: uppercase;
   font-family: var(--theme-font2);
   position: absolute;
