@@ -77,7 +77,7 @@ Version: 1.0.0
   --body-color: #7c7e90;
   --light-color: #9b9b9b;
   --secondary-color: #f9f9f9;
-  --smoke-color: #f8f8f8;
+  --smoke-color: rgb(230, 214, 246);
   --dark-color: #0b0c10;
   --light-gray-color: #171920;
   --light-dark-color: #0f1116;
@@ -2124,14 +2124,14 @@ textarea.form-control.is-invalid {
 }
 
 .vs-sidebox-v2 {
-  background-color: var(--smoke-color);
+  background-color: rgba(230, 214, 246, 0.557);
   padding: 30px;
   margin-bottom: 30px;
 }
 
 .sidebox-title-v2 {
   position: relative;
-  font-family: var(--theme-font);
+  font-family: rbg 230,214,246,0.557;
   margin-bottom: 0;
   padding: 20px 30px;
   color: var(--white-color);
@@ -3599,7 +3599,7 @@ textarea.form-control.is-invalid {
   opacity: 1;
 }
 .vs-about-wrapper.space.bg- {
-  background-color: rgba(255, 252, 252, 0.581);
+  background-color: var(--smoke-color);
 }
 /* Large devices */
 @media (max-width: 1199px) {
@@ -7475,7 +7475,7 @@ blockquote *:not(:after) {
 }
 
 .bg-smoke {
-  background-color: var(--smoke-color) !important;
+  background-color: rgb(230, 214, 246); !important;
 }
 
 .bg-dark {
