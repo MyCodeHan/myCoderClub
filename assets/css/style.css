@@ -750,7 +750,7 @@ textarea.form-control.is-invalid {
 }
 .arrow-style2 .slick-arrow.slick-prev {
   right: 6.5%;
-  left: unset;
+  left: 50%;
 }
 
 .arrow-style3 .slick-arrow {
